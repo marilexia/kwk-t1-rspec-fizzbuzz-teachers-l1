@@ -14,8 +14,6 @@ def fizzbuzz(int)
     return "Buzz"
   end
 
-
-
   if int % 4 !=0
     nil
   end
