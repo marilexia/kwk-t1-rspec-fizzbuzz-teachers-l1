@@ -14,4 +14,8 @@ def fizzbuzz(int)
     return "FizzBuzz"
   end
 
+  if int % 4 !=0
+    nil
+  end
+  
 end
