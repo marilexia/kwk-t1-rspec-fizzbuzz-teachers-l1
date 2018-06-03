@@ -31,7 +31,7 @@ def fizzbuzz(int)
   elsif int % 5 == 0
     return "Buzz"
 
-  if int % 4 !=0
+  elsif int % 4 !=0
     nil
   end
 
